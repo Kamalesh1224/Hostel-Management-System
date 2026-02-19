@@ -11,7 +11,7 @@
 
 ## Features
 - Branded with `Tagore Engineering College` name and logo in all portals
-- Student login using roll number starting with `4127`
+- Student login using roll number 
 - File complaints in categories: Electrical Fault, Room Related, Food, Water, Bathroom
 - Additional complaint requirements: Hostel Block, Room Number, Priority (Low/Medium/High), detailed description
 - Validation rules: max 5 active complaints per student, description length checks
